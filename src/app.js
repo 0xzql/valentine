@@ -40,7 +40,7 @@ export default class App extends React.Component {
 /* 白色背景太单调了。来点背景 */
 body, html {
   color: #fff;
-  background-color: darkslategray;
+  background-color: #DB918F;
 }
 
 /* 文字太近了 */
